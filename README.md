@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 
 
 <!-- 统计卡片 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanomw)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanomw&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanomw&show_icons=true)
-
-<!-- 主题 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanomw&show_icons=true&theme=radical)
