@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 
 <!-- 统计卡片 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanomw&show_icons=true)
